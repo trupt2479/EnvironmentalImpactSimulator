@@ -1,0 +1,16 @@
+com\example\gui\ChartView$ChartPanel.class
+com\example\gui\GUIUtils.class
+com\example\storage\DataLoader.class
+com\example\models\Activity.class
+com\example\models\ImpactCalculator.class
+com\example\storage\DatabaseManager.class
+com\example\storage\FileStorage.class
+com\example\utils\LoggingUtils.class
+com\example\gui\ChartView.class
+com\example\utils\ValidationUtils.class
+com\example\gui\ResultsView.class
+com\example\gui\InputForm.class
+com\example\models\RecommendationEngine.class
+com\example\utils\Constants.class
+com\example\main\Main.class
+com\example\gui\InputForm$SubmitButtonListener.class

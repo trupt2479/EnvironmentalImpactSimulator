@@ -1,0 +1,8 @@
+{
+    "database": "environment.db",
+    "logging": {
+      "level": "INFO",
+      "output": "logs/output.log"
+    }
+  }
+  
